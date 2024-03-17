@@ -1,0 +1,558 @@
+body{
+    background-color: #ffff;
+    font-family: Montserrat-Black;
+}
+
+.header{
+    color: #292929;
+}
+
+.head1{
+    color: #292929;
+}
+
+ul.horizontal-lists{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    display:flex;
+    position: absolute;
+    margin-top: 3%;
+    right:10%;
+    font-size: 1.9rem;
+}
+
+ul.horizontal-lists li{
+    margin-left: 60px;
+}
+
+
+.blue{
+    width:1.5%;
+    position: absolute;
+    top:5.5%;
+    left:2%;
+
+}
+
+.head{
+    position: absolute;
+    top:2%;
+    left:4%;
+}
+
+.cse{
+    position: absolute;
+    top:4%;
+    left:20%;
+}
+
+#verticle-line{
+    width:3px;
+    height: 1550px;
+    background-color: black;
+    position: absolute;
+    top:20%;
+    left:50%;
+}
+
+.myimg{
+    width:3%;
+    position: absolute;
+    top:28%;
+    left:48.5%;
+}
+
+h2{
+    position: absolute;
+    top:12%;
+    left:47% 
+}
+
+.h{
+   width:10%;
+   /* height:2px;  */
+   color: black;
+   position: absolute;
+   top:30%;
+   left:40%;
+}
+
+.blacka{
+    border-radius: 10%;
+    width:20%;
+    height:15%;
+    position: absolute;
+    top:25%;
+    left:20%;
+    rotate:x 30deg, y -60deg;
+
+}
+
+.info{
+    position: absolute;
+    left:23%;
+    top:26%;
+    font-size: 1rem;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    rotate: 30%;
+}
+
+.time{
+    position: absolute;
+    left:43%;
+    top:27%;
+}
+
+.blackb{
+    border-radius: 10%;
+    width:20%;
+    height:15%;
+    position: absolute;
+    top:55%;
+    left:60%;
+    rotate:x 30deg, y -60deg;
+
+}
+
+.anoinfo{
+    position: absolute;
+    left:61%;
+    top:56%;
+    font-size: 1rem;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    width: 20%;
+}
+
+.timea{
+    position: absolute;
+    left:53%;
+    top:56%;
+}
+
+.a{
+    width:10%;
+    /* height:2px;  */
+    color: black;
+    position: absolute;
+    top:59%;
+    left:50%;
+ }
+
+ .blackc{
+    border-radius: 10%;
+    width:20%;
+    height:15%;
+    position: absolute;
+    top:85%;
+    left:20%;
+    rotate:x 30deg, y -60deg;
+
+}
+
+.anoinfoa{
+    position: absolute;
+    left:21%;
+    top:85%;
+    font-size: 1rem;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    width:19%;
+}
+.timeb{
+    position: absolute;
+    left:42%;
+    top:86%;
+}
+
+
+.c{
+    width:10%;
+    /* height:2px;  */
+    color: black;
+    position: absolute;
+    top:89%;
+    left:40%;
+ }
+
+ .blackd{
+    border-radius: 10%;
+    width:20%;
+    height:15%;
+    position: absolute;
+    top:118%;
+    left:60%;
+    rotate:x 30deg, y -60deg;
+}
+
+.timec{
+    position: absolute;
+    left:52%;
+    top:120%;
+}
+
+.d{
+    width:10%;
+    /* height:2px;  */
+    color: black;
+    position: absolute;
+    top:123%;
+    left:50%;
+ }
+
+ .anoinfob{
+    position: absolute;
+    left:61%;
+    top:119%;
+    font-size: 1rem;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    width:20%;
+}
+
+.blacke{
+    border-radius: 10%;
+    width:20%;
+    height:15%;
+    position: absolute;
+    top:149%;
+    left:20%;
+    rotate:x 30deg, y -60deg;
+}
+
+.timed{
+    position: absolute;
+    left:42%;
+    top:152%;
+}
+
+.e{
+    width:10%;
+    /* height:2px;  */
+    color: black;
+    position: absolute;
+    top:155%;
+    left:40%;
+ }
+
+ .blackf{
+    border-radius: 10%;
+    width:20%;
+    height:15%;
+    position: absolute;
+    top:180%;
+    left:60%;
+    rotate:x 30deg, y -60deg;
+}
+
+.f{
+    width:10%;
+    /* height:2px;  */
+    color: black;
+    position: absolute;
+    top:185%;
+    left:50%;
+ }
+
+ .timee{
+    position: absolute;
+    left:52%;
+    top:182%;
+}
+
+ .anoinfoc{
+    position: absolute;
+    left:21%;
+    top:150%;
+    font-size: 1rem;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    width:22%;
+}
+
+.anoinfod{
+    position: absolute;
+    left:60.5%;
+    top:181%;
+    font-size: 1rem;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    width: 20%;
+}
+
+.contd{
+    position: absolute;
+    top:208%;
+    left:48%;
+}
+
+.foot1{
+    position: absolute;
+    left:10%;
+    top:215%;
+}
+
+.foot2{
+    position: absolute;
+    left:45%;
+    top:215%;
+}
+
+.foot3{
+    position: absolute;
+    left:80%;
+    top:215%;
+}
+
+.footer{
+    background-color: #292929;
+}
+
+.g{
+    width:1500px;
+    height:1px solid;
+    position: absolute;
+    top:212%;
+    left:1%;
+}
+
+@media screen and (max-width: 768px) {
+    .head{
+        position: absolute;
+        top:2%;
+        left:4%;
+        /* width:20%; */
+    }
+ 
+    .cse{
+        position: absolute;
+        top:8%;
+        left:5%;
+    }
+    
+
+ul.horizontal-lists{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    display:flex;
+    position: absolute;
+    margin-top: 5%;
+    right:10%;
+    font-size: 1.5rem;
+}
+
+    ul.horizontal-lists li{
+        margin-left: 30px;
+    }
+
+
+    .blue{
+        width:1.5%;
+        position: absolute;
+        top:6.5%;
+        left:2%;
+    }
+
+    .blacka{
+        border-radius: 10%;
+        width:33%;
+        height:15%;
+        position: absolute;
+        top:25%;
+        left:9%;
+    }
+
+    .info{
+        position: absolute;
+        left:13%;
+        top:26%;
+        font-size: 1rem;
+        color: aliceblue;
+        font-family: 'Courier New', Courier, monospace;
+        rotate: 30%;
+    }
+    
+    .blackb{
+        border-radius: 10%;
+        width:33%;
+        height:15%;
+        position: absolute;
+        top:55%;
+        left:60.5%;
+        rotate:x 30deg, y -60deg;
+    
+    }
+    
+  
+    .anoinfo{
+        position: absolute;
+        left:62.5%;
+        top:55%;
+        font-size: 0.9rem;
+        color: aliceblue;
+        font-family: 'Courier New', Courier, monospace;
+        width: 30%;
+    }
+
+    .timea{
+        position: absolute;
+        left:50.5%;
+        top:56%;
+        font-size: 0.8rem;
+    }
+
+    .blackc{
+        border-radius: 10%;
+        width:33%;
+        height:15%;
+        position: absolute;
+        top:85%;
+        left:5%;
+       
+    
+    }
+    
+    .anoinfoa{
+        position: absolute;
+        left:8%;
+        top:85%;
+        font-size: 0.9rem;
+        color: aliceblue;
+        font-family: 'Courier New', Courier, monospace;
+        width:29%;
+    }
+    .timeb{
+        position: absolute;
+        left:38.5%;
+        top:86%;
+        font-size: 0.8rem;
+    }
+
+    .c{
+        width:12%;
+        /* height:2px;  */
+        color: black;
+        position: absolute;
+        top:89%;
+        left:38%;
+     }
+
+     .blackd{
+        border-radius: 10%;
+        width:34%;
+        height:16%;
+        position: absolute;
+        top:118%;
+        left:62%;
+        
+    }
+    
+    .timec{
+        position: absolute;
+        left:50.5%;
+        top:120%;
+        font-size: 0.8rem;
+    }
+    
+    .d{
+        width:12%;
+        /* height:2px;  */
+        color: black;
+        position: absolute;
+        top:123%;
+        left:50%;
+     }
+
+     .anoinfob{
+        position: absolute;
+        left:63%;
+        top:118%;
+        font-size: 1rem;
+        color: aliceblue;
+        font-family: 'Courier New', Courier, monospace;
+        width:32%;
+    }
+
+    .blacke{
+        border-radius: 10%;
+        width:35%;
+        height:16%;
+        position: absolute;
+        top:149%;
+        left:3.5%;
+        rotate:x 30deg, y -60deg;
+    }
+    
+    .timed{
+        position: absolute;
+        left:38.5%;
+        top:152.5%;
+        font-size: 0.8rem;
+    }
+    
+    .e{
+        width:12%;
+        /* height:2px;  */
+        color: black;
+        position: absolute;
+        top:155%;
+        left:38%;
+     }
+
+     .anoinfoc{
+        position: absolute;
+        left:10%;
+        top:150%;
+        font-size: 0.9rem;
+        color: aliceblue;
+        font-family: 'Courier New', Courier, monospace;
+        width:25%;
+    }
+    
+     .blackf{
+        border-radius: 10%;
+        width:33%;
+        height:15%;
+        position: absolute;
+        top:180%;
+        left:65%;
+        rotate:x 30deg, y -60deg;
+    }
+
+    .f{
+        width:16%;
+        /* height:2px;  */
+        color: black;
+        position: absolute;
+        top:185%;
+        left:50%;
+     }
+    
+     .timee{
+        position: absolute;
+        left:51%;
+        top:182%;
+        font-size: 0.9rem;
+    }
+
+    .anoinfod{
+        position: absolute;
+        left:67%;
+        top:179%;
+        font-size: 1rem;
+        color: aliceblue;
+        font-family: 'Courier New', Courier, monospace;
+        width: 29%;
+    }
+
+    .g{
+        width:705px;
+        height:1px solid;
+        position: absolute;
+        top:212%;
+        left:1%;
+    }
+}
